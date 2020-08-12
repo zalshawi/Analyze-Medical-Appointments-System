@@ -11,7 +11,6 @@ This analysis is to explore a dataset containing 110k medial appointments from B
 
 # Key Points
 - Contain +100K medial appointments.
-- to gather, wrangled and visualized the data.
 
 # Process
 - Data Wrangle(Gather, Assess, Clean)
