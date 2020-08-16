@@ -22,10 +22,7 @@ This analysis is to explore a dataset containing 110k medial appointments from B
 # Dataset: 
 - [noshowappointments-kagglev2-may-2016](https://www.kaggle.com/joniarroba/noshowappointments) (Given from kaggle)
 
-# Software Needed
-The following packages (libraries) need to be installed:
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn 
-- datetime
+# Code and Resources Used
+**Python Verison:** 3.7 
+
+**packages:** Pandas, NumPy, matplotlib, Seaborn, datetime
