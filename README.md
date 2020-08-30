@@ -23,6 +23,6 @@ This analysis is to explore a dataset containing 110k medial appointments from B
 - [noshowappointments-kagglev2-may-2016](https://www.kaggle.com/joniarroba/noshowappointments) (Given from kaggle)
 
 # Code and Resources Used
-**Python Verison:** 3.7 
+**Python Verison:** 3.8 
 
 **packages:** Pandas, NumPy, matplotlib, Seaborn, datetime
